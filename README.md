@@ -15,6 +15,7 @@ Piezo Buzzer     | D36 | PB10 | TIM2_CH3 PWM
 
 
 **Ethernet notes**
+
 We configured a direct Ethernet connection between a Windows PC and an STM32 NUCLEO-F767ZI microcontroller.
 The PC was assigned the static IP address 10.128.0.1, while the STM32 was configured with 10.128.0.2. 
 Both devices used the subnet mask 255.255.252.0 (/22), placing them on the same subnet.
