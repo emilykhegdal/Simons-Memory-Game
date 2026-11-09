@@ -13,6 +13,8 @@ Red button       | A1  | PC0  | GPIO_Input
 Blue button      | PD2*| PD2  | GPIO_Input
 Piezo Buzzer     | D36 | PB10 | TIM2_CH3 PWM
 
+*PD2 is located on row CN8, pin number 12
+
 
 **Ethernet notes**
 
