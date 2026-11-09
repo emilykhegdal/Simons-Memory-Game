@@ -11,9 +11,10 @@ Green button     | D6  | PE9  | GPIO_Input
 Yellow button    | D5  | PE11 | GPIO_Input
 Red button       | A1  | PC0  | GPIO_Input
 Blue button      | PD2*| PD2  | GPIO_Input
-Piezo Buzzer     | D36 | PB10 | TIM2_CH3 PWM
+Piezo Buzzer     | D36*| PB10 | TIM2_CH3 PWM
 
 *PD2 is located on row CN8, pin number 12
+*D36 is located on row CN10, pin number 32
 
 
 **Ethernet notes**
